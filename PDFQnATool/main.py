@@ -12,7 +12,7 @@ from user_query import user_query
 
 # load_dotenv()
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'sk-proj-*****-4nuEdduOjKeMv5cQSKr-rPOLFN-*****1jE9CeQRZBqpjBW_cTf3okIAF869ALXE7yOT3BlbkFJ-*******txKPl8YMmAHFsPayahBJdzABkadQFhGkPhH3wlMFtp1PXF9GIzoOiSetU6e5VESnsA'
 
 # Upload PDF
 st.title("PDF Chatbot")
